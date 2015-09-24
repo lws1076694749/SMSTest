@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">短信验证</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_bind_phone">注册或者绑定手机号</string>
+</resources>
